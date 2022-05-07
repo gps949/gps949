@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![gps949's GitHub stats](https://github-readme-stats.vercel.app/api?username=gps949)](https://github.com/gps949)
+[![gps949的GitHub状态](https://github-readme-stats.vercel.app/api?username=gps949)](https://github.com/gps949)
+
+[![gps949的热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
