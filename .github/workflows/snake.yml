@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@main
         id: snake-gif
         with: 
           github_user_name: ${{ github.repository_owner }}
@@ -25,7 +25,7 @@ jobs:
           svg_out_path: ./asset/github-contribution-grid-snake.svg
           
       - name: Push to Github
-        uses: EndBug/add-and-commit@v7.2.1
+        uses: EndBug/add-and-commit@main
         with: 
           branch: main
           message: 'Generate Contribution Snake'
