@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 
 [![gps949的热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=gps949)](https://github.com/gps949)
 
-![](https://raw.githubusercontent.com/gps949/gps949/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gps949/gps949/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gps949/gps949/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/gps949/gps949/output/github-snake.svg">
+</picture>
