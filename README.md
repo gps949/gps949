@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/gps949)](https://ghfind.com/u/gps949?ref=badge)
+
 [![gps949的GitHub状态](https://github-readme-stats.vercel.app/api?username=gps949)](https://github.com/gps949)
 
 [![gps949的热门语言](https://github-readme-stats.vercel.app/api/top-langs/?username=gps949)](https://github.com/gps949)
